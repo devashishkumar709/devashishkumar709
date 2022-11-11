@@ -1,7 +1,9 @@
-### Hi there 👋
+### Hi everyone 👋
 
 <!--
 **devashishkumar709/devashishkumar709** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+[![Devashish's github stats](https://github-readme-stats.vercel.app/api?username=devashishkumar709)](https://github.com/devashishkumar709/github-readme-stats)
 
 Here are some ideas to get you started:
 
