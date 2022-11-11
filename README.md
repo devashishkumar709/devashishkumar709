@@ -16,4 +16,6 @@ Here are some ideas to get you started:
 
 [![Devashish's github stats](https://github-readme-stats.vercel.app/api?username=devashishkumar709&show_icons=true&theme=radical)](https://github.com/devashishkumar709/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=devashishkumar709&theme=dark&background=000000)](https://git.io/streak-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=devashishkumar709&layout=compact&show_icons=true&theme=radical)](https://github.com/devashishkumar709/github-readme-stats)
