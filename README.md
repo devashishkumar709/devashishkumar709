@@ -36,4 +36,4 @@ Here are some ideas to get you started:
 
 <hr>
 
-:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([your-linkedin-url](https://www.linkedin.com/in/devashish-877583199/))
+:mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)]([https://www.linkedin.com/in/devashish-877583199/](https://www.linkedin.com/in/devashish-877583199/))
